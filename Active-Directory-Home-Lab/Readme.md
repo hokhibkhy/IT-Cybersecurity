@@ -36,8 +36,6 @@ This project was designed as a hands-on learning experience to strengthen my ski
 
 ---
 
-## 📸 Screenshots
-
 > _Screenshots coming soon: server setup, DHCP configuration, domain join status, and user login confirmation._
 
 ---
